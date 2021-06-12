@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![](https://github-readme-stats.vercel.app/api?username=olabacker&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=olabacker&show_icons=true&theme=radicalcount_private=true)
+
 
 
 <!--
